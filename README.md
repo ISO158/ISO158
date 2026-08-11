@@ -44,19 +44,8 @@ I am currently expanding my career into the tech industry, applying advanced ana
 
 ## Main Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 credit-risk-api</h3>
-      <p>API and computational pipeline designed for credit risk modeling, data preprocessing, and evaluation of predictive algorithms.</p>
-      <p><b>Technologies:</b> Python, Pandas, Scikit-Learn, REST API</p>
-      <a href="https://github.com/ISO158/credit-risk-api">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ DIY Spin Coater (Lab Hardware)</h3>
-      <p>Development and integration of scientific instrumentation using an ESP32 microcontroller, 3D printing, and rotation control for thin films.</p>
-      <p><b>Technologies:</b> C++, ESP32, 3D Printing, Hardware Control</p>
-      <a href="#">View Project / Docs →</a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Technologies | Link |
+| :--- | :--- | :--- | :--- |
+| **🔬 Telco Churn & Retention** | Pipeline for customer retention analytics and churn prediction. | Python, Pandas, Scikit-Learn | [View Repo →](https://github.com/ISO158/telco-churn_retention-analytics) |
+| **💳 Credit Risk API** | API for credit risk modeling and predictive algorithm evaluation. | Python, Scikit-Learn, REST API | [View Repo →](https://github.com/andradeyghor/credit-risk-api) |
+| **⚙️ DIY Spin Coater** | ESP32-based lab hardware for thin film rotation control. | C++, ESP32, 3D Printing | [View Repo →](https://github.com/ISO158/SpinCoaterDIY) |
