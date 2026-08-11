@@ -1,6 +1,8 @@
 ## Hi there 👋
 <img width="152" height="148" alt="Captura de tela 2025-09-30 134929" src="https://github.com/user-attachments/assets/4cb0766a-e634-42b3-8d0a-c64588e7c5fa" />
 
+Minhas linguagens principais C++ e Python
+
 <!--
 **ISO158/ISO158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
