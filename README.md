@@ -13,7 +13,7 @@
 
 </div>
 
-## 📌 About Me
+## About Me
 
 - MSc Candidate in Physics (FAPESP Fellow)
 - Degree in Physics from Universidade de São Paulo (USP)
@@ -24,16 +24,16 @@ I am currently expanding my career into the tech industry, applying advanced ana
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-### 🟢 Advanced / Research
+### Advanced / Research
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=overleaf&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🟡 In Development / Learning
+### In Development / Learning
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -42,7 +42,7 @@ I am currently expanding my career into the tech industry, applying advanced ana
 
 ---
 
-## 🚀 Main Projects
+## Main Projects
 
 <table width="100%">
   <tr>
@@ -63,7 +63,7 @@ I am currently expanding my career into the tech industry, applying advanced ana
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
