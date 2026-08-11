@@ -60,14 +60,3 @@ I am currently expanding my career into the tech industry, applying advanced ana
     </td>
   </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ISO158&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Igor's GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISO158&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170"/>
-
-</div>
