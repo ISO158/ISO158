@@ -49,3 +49,7 @@ I am currently expanding my career into the tech industry, applying advanced ana
 | **🔬 Telco Churn & Retention** | Pipeline for customer retention analytics and churn prediction. | Python, Pandas, Scikit-Learn | [View Repo →](https://github.com/ISO158/telco-churn_retention-analytics) |
 | **💳 Credit Risk API** | API for credit risk modeling and predictive algorithm evaluation. | Python, Scikit-Learn, REST API | [View Repo →](https://github.com/andradeyghor/credit-risk-api) |
 | **⚙️ DIY Spin Coater** | ESP32-based lab hardware for thin film rotation control. | C++, ESP32, 3D Printing | [View Repo →](https://github.com/ISO158/SpinCoaterDIY) |
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ISO158&theme=dark)](https://git.io/streak-stats)
